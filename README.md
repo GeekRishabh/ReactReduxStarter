@@ -1,3 +1,3 @@
-# Middlware
+# ReactReduxStarter
 
-Example of the React REdux Middleware concepts
+Template for the ReactReduxStarter with the Redux-Dev-Tools added to the template
